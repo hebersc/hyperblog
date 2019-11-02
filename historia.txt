@@ -4,3 +4,5 @@ Heber tiene 35 años y nacio en Bolivia,
 viviendo para todo el mundo.
 
 Hoy hablaremos de su vida y obra maestra.
+
+Esta es la Historia de Developer Surco, el inicio de todo.
